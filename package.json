@@ -1,0 +1,14 @@
+{
+  "name": "neural-net",
+  "version": "1.0.0",
+  "description": "a simple neural network implementation using brain.js",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "sean phillips",
+  "license": "ISC",
+  "dependencies": {
+    "brain.js": "^1.2.1"
+  }
+}
